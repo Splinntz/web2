@@ -17,7 +17,7 @@ function getMonsters()
 {
     return [
         [
-            'name' => 'Domovoï',
+            'name' => 'Test',
             'strength' => 30,
             'life' => 300,
             'type' => 'water'
